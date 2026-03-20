@@ -1,0 +1,14 @@
+{
+  "id": "RoutePlanningAssistant",
+  "name": "RoutePlanningAssistant",
+  "pck_name": "RoutePlanningAssistant",
+  "author": "ikun",
+  "description": "基于图例的路径规划工具",
+  "version": "1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    ""
+  ],
+  "affects_gameplay": false
+}
